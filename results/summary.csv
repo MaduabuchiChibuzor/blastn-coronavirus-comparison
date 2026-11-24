@@ -1,0 +1,2 @@
+query,subject,query_length,subject_length,alignment_length,identities,mismatches,gap_positions,percent_identity,query_coverage,subject_coverage,bit_score,e_value
+NC_045512.2,MN996532.2,29903,29855,29877,28723,1130,24,96.14,99.91,100.0,48758.2,0.0
